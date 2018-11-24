@@ -1,0 +1,38 @@
+{
+  "squadName" : "favourite film squad",
+  "editor" : "Gongqijun",
+  "hometown" : "Japan",
+  "active" : true,
+  "films" : [
+    {
+      "name" : "龙猫",
+      "time" : 1988,
+      "writer" : "Gongqijun",
+      "moral" : [
+        "Children's Eyes",
+        "kind",
+        "innocence"
+      ]
+    },
+    {
+      "name" : "风之谷",
+      "time" : 1989,
+      "writers" : "Gongqijun",
+      "moral" : [
+        "brave",
+        "kind",
+        "love"
+      ]
+    },
+    {
+      "name" : "红猪",
+      "time" : 1992,
+      "writer" : "Gongqijun",
+      "moral" : [
+        "love",
+        "kind",
+        "brave"
+      ]
+    }
+  ]
+}
